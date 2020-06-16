@@ -1,0 +1,6 @@
+.bg-banner {
+    background: url('../img/pwa2.png');
+    background-position: center center;
+    background-size: cover;
+    min-height: 30rem;
+}
